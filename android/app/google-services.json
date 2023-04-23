@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799181277593",
+    "project_id": "jambo-1669705104632",
+    "storage_bucket": "jambo-1669705104632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799181277593:android:e6555e71e7fc43b49eab08",
+        "android_client_info": {
+          "package_name": "com.jambo.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799181277593-1cvkqb79h52c4ctecaj7lkdtkg43j96s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5wmHpctfzwJ2vC-xlh9L-S33TLWx9MOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799181277593-1cvkqb79h52c4ctecaj7lkdtkg43j96s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
